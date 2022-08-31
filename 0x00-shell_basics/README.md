@@ -1,1 +1,2 @@
-0-current_working_directory print the current working directory 
+pwd: print the current working directory 
+ls -al: Display the contents list of your current directory
